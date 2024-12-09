@@ -2,6 +2,11 @@ Here's an enhanced and polished version of your README:
 
 # GROQ-Based Movie Agent
 
+## Enhancements Made
+- Updated by Vered Ben-Anat
+- Updated On 2024.12.09
+- Updates: see section below for details.
+
 ## Overview
 This project showcases an intelligent Movie Agent powered by the Groq LLM (Large Language Model). Our agent seamlessly connects with the OMDB API and Wikipedia API to fetch and analyze comprehensive information about movies.
 
@@ -42,4 +47,14 @@ To run this on your own, follow these steps:
    ``` streamlit run chatbot.py```
 
 To learn more about the code behind this, watch my youtube video explaining the basics of the agent and the code [here](https://youtu.be/qDnUNYsO_ig)
+
+## Enhancements Made
+- Updated by Vered Ben-Anat
+- Updated On 2024.12.09
+- Updates: see section below for details.
+   Changed prompt to always provide source references for answers.
+   Renamed files to make them more descriptive and obvious for users.
+   TBD: Turned on more features and provided examples for each feature.
+   TODO: 
+   FIXME:
 
